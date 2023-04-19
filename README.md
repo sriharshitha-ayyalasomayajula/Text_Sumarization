@@ -1,6 +1,7 @@
 Text Summarization with Seq2Seq and Transformer Models 
 
 DataSource: CNN daily news dataset - [CNN data] (https://github.com/JafferWilson/Process-Data-of-CNN-DailyMail)  -Click on this link and download the tokenized data
+
 Turning Red movie plot - we have taken this data form their wikipedia page - [Turning Red] (https://en.wikipedia.org/wiki/Turning_Red)
 
 Language: Python  (ver 3.11). 
